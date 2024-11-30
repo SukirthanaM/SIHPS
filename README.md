@@ -1,4 +1,4 @@
-![Architecture diagram](https://github.com/user-attachments/assets/ba1c8643-413a-43e7-b4e2-470ccfb7366b)# Smart India Hackathon Workshop
+# Smart India Hackathon Workshop
 # Date:30.11.24
 ## Register Number:24005497
 ## Name:Sukirthana.M
