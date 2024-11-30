@@ -1,4 +1,4 @@
-# Smart India Hackathon Workshop
+![Architecture diagram](https://github.com/user-attachments/assets/ba1c8643-413a-43e7-b4e2-470ccfb7366b)# Smart India Hackathon Workshop
 # Date:30.11.24
 ## Register Number:24005497
 ## Name:Sukirthana.M
@@ -20,11 +20,10 @@ Stay informed about events, reunions, and professional development opportunities
 Provide feedback and participate in surveys to shape the future direction of the alumni association.
 
 ## Proposed Solution / Architecture Diagram
-![Architecture diagram](https://github.com/user-attachments/assets/c5a7076a-6a9f-455f-acff-b8b64eda2d76)
-
+![Architecture diagram](https://github.com/user-attachments/assets/bb6712ba-3b07-4fd3-8b48-9241f3161e15)
 
 ## Use Cases
-![Screenshot 2024-11-30 185527](https://github.com/user-attachments/assets/9e03c6c4-0808-4282-870c-c8a1bb89c1c4)
+[Screenshot 2024-11-30 185527](https://github.com/user-attachments/assets/7db483b2-95c3-4ddd-b275-92c1735e443a)
 
 
 ## Technology Stack
